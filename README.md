@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas Raniere
 ==============================
 
-Computer enginner
+Computer engineer
 -----------------
 
 I've been learning to code and develop hardware for 5 years and in this time i gathered a great knowledge in various technologies but i am far away from the end.
