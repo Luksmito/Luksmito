@@ -8,7 +8,7 @@ I've been learning to code and develop hardware for 5 years and in this time i g
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [lucasranieredev@gmail.com](mailto:lucasranieredev@gmail.com)
-*   🧠  I'm learning Flutter
+*   🧠  I'm learning Flutter and AI
 *   🤝  I'm open to collaborating on any interesting project
 *   ### Skills 
 <p align="left">
